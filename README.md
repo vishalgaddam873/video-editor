@@ -26,5 +26,4 @@
 <p>How to run the Project?</p>
 
 - `cd video-editor/`
-- `pip3 install`
 - `python3 setup.py`
